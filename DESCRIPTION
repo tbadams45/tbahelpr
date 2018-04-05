@@ -1,7 +1,7 @@
 Package: tbahelpr
 Type: Package
 Title: Miscellaneous helper functions for Timothy Breckner Adams
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Timothy", "Adams", email = "tbadams45@gmail.com",
   role = c("aut", "cre"))
 Description:  Help Tim! Do it!

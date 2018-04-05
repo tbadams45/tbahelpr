@@ -15,4 +15,5 @@
 #' @return A tibble which represents all combinations of the tibbles given
 #' @examples
 #' expand_grid_df(tibble(a = 1:3, b = 2:4), tibble(c = 5:3))
+#' @export
 expand_grid_df <- function(...) tibble::as.tibble(Reduce(function(...) merge(..., by=NULL), list(...)))
