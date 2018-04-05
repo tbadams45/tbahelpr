@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522888915599.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "633AE5F3",
+    "lastKnownWriteTime" : 1522890443,
+    "last_content_update" : 1522890443896,
+    "path" : "~/gits/tbahelpr/R/misc.R",
+    "project_path" : "R/misc.R",
+    "properties" : {
+        "cursorPosition" : "13,32",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
